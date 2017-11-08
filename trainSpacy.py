@@ -92,7 +92,7 @@ def train():
 	doc = nlp("Rowan University Glassboro, New Jersey Bachelor of Science: Computer Science May 2017 ".decode('utf-8'))
 	for ent in doc.ents:
 		print ent.label_, ent.text            # CHECKING ON SOME TEST DATA
-	nlp.save_to_directory('/home/karan/ResumeParserVer6')     # Model can be then pip installed: 
+	nlp.save_to_directory('/home/karan/ResumeParserVer6')     # Model can be then pip installed: https://spacy.io/usage/training#section-saving-loading
 
 
 
