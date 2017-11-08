@@ -1,0 +1,10 @@
+Government	BINST
+High	IINST
+School	LINST
+Udupi	UGPE
+Diploma	O
+MPC	BINST
+HIGH	IINST
+SCHOOL	LINST
+Manipal	UGPE
+TX	UGPE

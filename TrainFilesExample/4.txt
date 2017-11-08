@@ -1,0 +1,11 @@
+CALIFORNIA	BINST
+UNIVERSITY	LINST
+Bachelor	BDEG
+of	IDEG
+Applied	IDEG
+Science	LDEG
+in	O
+Internet	BBRMA
+and	IBRMA
+Web	IBRMA
+Development	LBRMA
